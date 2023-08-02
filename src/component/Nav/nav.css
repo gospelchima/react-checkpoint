@@ -1,0 +1,15 @@
+nav {
+  height: 150px;
+  width: 100%;
+}
+.logo-container {
+  height: 100%;
+  width: 80%;
+  margin: auto auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-container img {
+  height: 100%;
+}
